@@ -1,0 +1,3 @@
+file that tells git which files or folder to ignore in a project
+
+.DS_Store
